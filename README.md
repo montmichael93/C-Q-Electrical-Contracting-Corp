@@ -55,7 +55,7 @@ family-electric-website/
 ### Update Contact Information
 
 Edit the contact details in all HTML files:
-- Phone number: `(555) 123-4567`
+- Phone number: `917-335-6688`
 - Email: `info@familyelectric.com`
 - Address: `123 Main Street, Your City, ST 12345`
 
