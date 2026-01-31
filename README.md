@@ -1,6 +1,6 @@
-# Family Electric Website
+# C Q Electrical Contracting Corp Website
 
-A modern, responsive front-end website for a small family-owned electrician company.
+A modern, responsive front-end website for C Q Electrical Contracting Corp.
 
 ## Features
 
@@ -120,3 +120,4 @@ This project is open source and available for use.
 - The contact form is set up for demonstration. You'll need to connect it to a backend service for actual form submissions.
 - All contact information, addresses, and business details should be updated to match your actual business information.
 # C-Q-Electrical-Contracting-Corp.-
+git remote set-url origin https://github.com/montmichael93/C-Q-Electrical-Contracting-Corp.git
